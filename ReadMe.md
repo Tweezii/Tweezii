@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Senior Engineer at Sony Pictures Television's Lab24P<br>      - I focus on creating automated tools and technology for production/post-production<br>🌱 I’m currently earning the following certifications:<br>      - Javascript Algorithms and Data Structures (FreeCodeCamp.org)<br>💬 Ask me about PowerShell, .NET, and WPF Forms<br>⚡ I have spent the past decade working in the Film & Television industry
+🔭 I’m currently working as a Senior Engineer at Sony Pictures Television's Lab24P<br>* I focus on creating automated tools and technology for production/post-production<br>🌱 I’m currently earning the following certifications:<br>* Javascript Algorithms and Data Structures (FreeCodeCamp.org)<br>💬 Ask me about PowerShell, .NET, and WPF Forms<br>⚡ I have spent the past decade working in the Film & Television industry
 
 
 ## 🌐 Socials:
